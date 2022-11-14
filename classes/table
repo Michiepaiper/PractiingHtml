@@ -1,0 +1,41 @@
+<!-- Create an HTML with the title "Classwork" -->
+<!DOCTYPE html>
+<html>
+<head>
+<title>Classwork</title>
+</head>
+<body>
+<!-- Create a h2 title -->
+<h2>Classwork</h2>
+<!-- Create paragraph..." -->
+<p>
+This is a classwork, a Table Classwork
+</p>
+<table border= "2">
+<tr>
+<th>Name</th>
+<th>Age</th>
+</tr>
+<tr>
+<td>Michelle Piper</td>
+<td>26</td>
+</tr>
+<tr>
+<td>Tobi Bakz</td>
+<td>32</td>
+</tr>
+<tr>
+<td>Noelle Piper</td>
+<td>25</td>
+</tr>
+<tr>
+<td>Natasha James</td>
+<td>29</td>
+</tr>
+<tr>
+<td>Nelly Phillips</td>
+<td>46</td>
+</tr>
+</table>
+</body>
+</html>
